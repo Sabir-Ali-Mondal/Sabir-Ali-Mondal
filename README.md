@@ -1,50 +1,77 @@
-# Sabir Ali Mondal
+# 👋 Sabir Ali Mondal  
 
 [![GitHub followers](https://img.shields.io/github/followers/Sabir-Ali-Mondal?style=social)](https://github.com/Sabir-Ali-Mondal)
 [![Profile views](https://komarev.com/ghpvc/?username=Sabir-Ali-Mondal)](https://github.com/Sabir-Ali-Mondal)
 
-Hello there! I'm Sabir Ali Mondal, a Full Stack Dev-in-progress from India. I joined GitHub on May 16, 2022, and since then I have been actively working on various projects to enhance my coding skills and contribute to the open-source community. As a programming enthusiast, I have a keen interest in learning and exploring different programming languages and integrating cutting-edge AI technologies into my projects. 
+### 🚀 Full Stack Dev-in-Progress | AI Enthusiast | Problem Solver  
+
+Hello there! I'm **Sabir Ali Mondal**, a passionate **Full Stack Developer-in-progress** from **India**. I have a deep interest in **learning, exploring new technologies, and integrating AI** into my projects.  
+
+---
+
+## 🎯 About Me  
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dmttn34te/image/upload/v1732150306/Sabir_Ali_Mondal_ikncvo.jpg" alt="Welcome" width="300" height="300">
+  <img src="https://res.cloudinary.com/dmttn34te/image/upload/v1732150306/Sabir_Ali_Mondal_ikncvo.jpg" alt="Welcome" width="250" height="250">
 </p>
 
-## Skills and Interests
+💡 Enthusiastic about **Full Stack Development & AI**  
+📌 Passionate about **solving real-world problems** through technology  
+🎯 Constantly improving **coding skills & collaborating on open-source projects**  
+🔍 Exploring **AI-powered applications & Web Technologies**  
 
-Here's a glimpse of my skill set and interests:
+---
 
-- Programming Languages: C, Python
-- Front-end Development: HTML, CSS, JavaScript
-- Back-end Development: Node.js, Express.js, MongoDB
-- AI Technologies
-- 
-## Project Contributions
+## 🛠️ Skills & Tech Stack  
 
-I have created a total of 10 public repositories on GitHub, encompassing a wide range of projects. Let's take a peek at some of my noteworthy repositories and their purpose:
+### 🔹 Programming Languages  
+✔️ C | Python | SQL  
 
-1. [AI Assistant Chat - Frontend only](https://github.com/Sabir-Ali-Mondal/AI_Assistant_Chat-Frontend_only): This project demonstrates my utilization of copilot5.p.rapidapi.com to build an AI assistant chat, offering a conversational interface for users.
+### 🔹 Frontend Development  
+✔️ HTML | CSS | JavaScript | Bootstrap  
 
-2. [Mobile Issue Solver AI](https://github.com/Sabir-Ali-Mondal/Mobile-Issue-Solver-AI): In this project, I have applied AI technologies to create a web application that helps users diagnose and solve common mobile issues.
+### 🔹 Backend Development  
+✔️ Node.js | Express.js | SQL (SQLite)  
 
-3. [Outside Of Egg - Automated](https://github.com/Sabir-Ali-Mondal/Outside-Of-Egg-Automated): Applying AI algorithms, this automated web application assists users with egg-related tasks.
+### 🔹 AI & Other Technologies  
+✔️ AI Tools | API Integration | Git & GitHub  
 
-I invite you to explore my [GitHub profile](https://github.com/Sabir-Ali-Mondal) for a comprehensive list of my projects.
+---
 
-## Coding Habits
+## 🚀 Notable Projects  
 
-My commitment to honing my coding skills is reflected in my 192 commits on GitHub. I find joy in working on challenging projects and embracing new technologies. With a solid foundation in web development and general-purpose programming languages, such as HTML, CSS, Python, and C, I strive to create robust and innovative applications. 
+🔹 **[AI Assistant Chat - Frontend Only](https://github.com/Sabir-Ali-Mondal/AI_Assistant_Chat-Frontend_only)**  
+A simple AI-powered chat interface using `copilot5.p.rapidapi.com`.  
 
-## GitHub Presence
+🔹 **[Mobile Issue Solver AI](https://github.com/Sabir-Ali-Mondal/Mobile-Issue-Solver-AI)**  
+An AI-based web app that diagnoses & helps solve common mobile issues.  
 
-While I still have limited followers and visibility on GitHub, I am determined to expand my network and engage actively within the community. You can find my profile [here](https://github.com/Sabir-Ali-Mondal). I believe in the power of collaboration and open-source, and I look forward to connecting with like-minded individuals.
+🔹 **[Outside Of Egg - Automated](https://github.com/Sabir-Ali-Mondal/Outside-Of-Egg-Automated)**  
+A web app utilizing AI algorithms to assist users with egg-related tasks.  
 
-To have a more detailed look at my GitHub activity and what I've been up to, feel free to explore the GitHub stats below:
+📌 **Explore more:** [GitHub Profile](https://github.com/Sabir-Ali-Mondal)  
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Sabir-Ali-Mondal)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabir-Ali-Mondal)
+---
 
-## Let's Connect
+## 📊 GitHub Stats  
 
-If you find my projects intriguing or have any collaboration ideas, feel free to reach out to me. You can find more information about me and my work on my [portfolio](https://sabirportfolio.ccbp.tech/).
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sabir-Ali-Mondal&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabir-Ali-Mondal&layout=compact&theme=tokyonight" alt="Top Languages" width="48%">
+</p>
 
-I am open to new opportunities and eager to continue learning and growing as a developer. Thank you for your time and let's connect to embark on coding adventures together!
+📌 **192+ GitHub commits** and growing every day!  
+
+---
+
+## 🤝 Let's Connect  
+
+📌 **Portfolio:** [sabirportfolio.ccbp.tech](https://sabirportfolio.ccbp.tech/)  
+📌 **GitHub:** [Sabir-Ali-Mondal](https://github.com/Sabir-Ali-Mondal)  
+
+🚀 **Open to new opportunities, collaborations & discussions!**  
+💡 Let’s connect and build something amazing together!  
+
+---
+
+🔥 **"Learning never stops – Keep coding, keep growing!"** 🚀
