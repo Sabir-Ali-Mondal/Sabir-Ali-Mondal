@@ -5,7 +5,9 @@
 
 Hello there! I'm Sabir Ali Mondal, a Full Stack Dev-in-progress from India. I joined GitHub on May 16, 2022, and since then I have been actively working on various projects to enhance my coding skills and contribute to the open-source community. As a programming enthusiast, I have a keen interest in learning and exploring different programming languages and integrating cutting-edge AI technologies into my projects. 
 
-![Welcome](https://res.cloudinary.com/dmttn34te/image/upload/v1732150306/Sabir_Ali_Mondal_ikncvo.jpg)
+<p align="center">
+  <img src="https://res.cloudinary.com/dmttn34te/image/upload/v1732150306/Sabir_Ali_Mondal_ikncvo.jpg" alt="Welcome" width="300" height="300">
+</p>
 
 ## Skills and Interests
 
@@ -14,10 +16,8 @@ Here's a glimpse of my skill set and interests:
 - Programming Languages: C, Python
 - Front-end Development: HTML, CSS, JavaScript
 - Back-end Development: Node.js, Express.js, MongoDB
-- AI Technologies: Natural Language Processing, Machine Learning
-- Web Development
-- Interactive Learning Platforms
-
+- AI Technologies
+- 
 ## Project Contributions
 
 I have created a total of 10 public repositories on GitHub, encompassing a wide range of projects. Let's take a peek at some of my noteworthy repositories and their purpose:
