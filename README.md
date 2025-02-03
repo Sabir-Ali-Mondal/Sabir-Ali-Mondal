@@ -25,31 +25,49 @@ Hello there! I'm **Sabir Ali Mondal**, a passionate **Full Stack Developer-in-pr
 ## 🛠️ Skills & Tech Stack  
 
 ### 🔹 Programming Languages  
-✔️ C | Python | SQL  
-
-### 🔹 Frontend Development  
+✔️ C | Python
 ✔️ HTML | CSS | JavaScript | Bootstrap  
-
-### 🔹 Backend Development  
-✔️ Node.js | Express.js | SQL (SQLite)  
-
-### 🔹 AI & Other Technologies  
+✔️ Node.js | SQL (SQLite)  
 ✔️ AI Tools | API Integration | Git & GitHub  
 
 ---
 
-## 🚀 Notable Projects  
+## 🚀 Innovative Projects
 
-🔹 **[AI Assistant Chat - Frontend Only](https://github.com/Sabir-Ali-Mondal/AI_Assistant_Chat-Frontend_only)**  
-A simple AI-powered chat interface using `copilot5.p.rapidapi.com`.  
+Here are some of my most notable and innovative projects:
 
-🔹 **[Mobile Issue Solver AI](https://github.com/Sabir-Ali-Mondal/Mobile-Issue-Solver-AI)**  
-An AI-based web app that diagnoses & helps solve common mobile issues.  
+### 🔹 [Concept Visioner](https://github.com/Sabir-Ali-Mondal/Concept-Visioner)
+A unique project that generates **3D and 2D diagrams/models** using **p5.js HTML**, enhancing learning and visualization.  
+- **Technology Used**: Node.js, Gemini API, p5.js  
+- **Key Features**:
+  - Generates interactive models based on user inputs  
+  - Gamified learning experience  
+  - Encourages conceptual understanding beyond textbooks  
 
-🔹 **[Outside Of Egg - Automated](https://github.com/Sabir-Ali-Mondal/Outside-Of-Egg-Automated)**  
-A web app utilizing AI algorithms to assist users with egg-related tasks.  
+---
 
-📌 **Explore more:** [GitHub Profile](https://github.com/Sabir-Ali-Mondal)  
+### 🔹 Outside of Egg 2.0 *(Private Repository)*
+An AI-driven educational platform designed to **inspire creativity** and **expand knowledge** through engaging Q&A sessions.  
+- **Technology Used**: Node.js, AI Integration, Gamification  
+- **Key Features**:
+  - AI-generated **creative prompts** for children  
+  - Interactive **learning assistant** with voice-based feedback  
+  - Encourages **curiosity-driven exploration**  
+
+---
+
+### 🔹 [Beam Focus 3.0](https://github.com/Sabir-Ali-Mondal/Beam-Focus-3.0)
+A **next-generation front-end learning platform** designed for **personalized study plans, AI-powered guidance, and gamification**.  
+- **Technology Used**: JavaScript, Front-end frameworks  
+- **Key Features**:
+  - Personalized **study plans & streak tracking**  
+  - AI-powered **doubt resolution**  
+  - Day/Night mode for better readability  
+  - Integrated **StudyPath Tube & VideoCode tools**  
+
+---
+
+📌 *Explore more of my work on* **[GitHub](https://github.com/Sabir-Ali-Mondal)**.
 
 ---
 
@@ -74,4 +92,4 @@ A web app utilizing AI algorithms to assist users with egg-related tasks.
 
 ---
 
-🔥 **"Learning never stops – Keep coding, keep growing!"** 🚀
+🔥 **"Think about thinking!"** 🚀
