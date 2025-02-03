@@ -38,7 +38,7 @@ Here are some of my most notable and innovative projects:
 
 ### 🔹 [Concept Visioner](https://github.com/Sabir-Ali-Mondal/Concept-Visioner)
 A unique project that generates **3D and 2D diagrams/models** using **p5.js HTML**, enhancing learning and visualization.  
-- **Technology Used**: Node.js, Gemini API, p5.js  
+- **Technology Used**: Node.js, p5.js  ,Perplexity AI ,Chatgpt AI
 - **Key Features**:
   - Generates interactive models based on user inputs  
   - Gamified learning experience  
@@ -46,7 +46,7 @@ A unique project that generates **3D and 2D diagrams/models** using **p5.js HTML
 
 ---
 
-### 🔹 Outside of Egg 2.0 *(Private Repository)*
+### 🔹 Outside of Egg 2.0 *(Private Repository, you can request personally )* [CLICK HERE ](https://github.com/Sabir-Ali-Mondal/Outside-of-egg-2.0)
 An AI-driven educational platform designed to **inspire creativity** and **expand knowledge** through engaging Q&A sessions.  
 - **Technology Used**: Node.js, AI Integration, Gamification  
 - **Key Features**:
