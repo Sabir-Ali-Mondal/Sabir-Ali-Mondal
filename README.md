@@ -5,7 +5,7 @@
 
 Hello there! I'm Sabir Ali Mondal, a Full Stack Dev-in-progress from India. I joined GitHub on May 16, 2022, and since then I have been actively working on various projects to enhance my coding skills and contribute to the open-source community. As a programming enthusiast, I have a keen interest in learning and exploring different programming languages and integrating cutting-edge AI technologies into my projects. 
 
-![Welcome](https://media.giphy.com/media/3duTexn6c6XVi/giphy.gif](https://res.cloudinary.com/dmttn34te/image/upload/v1732150306/Sabir_Ali_Mondal_ikncvo.jpg)
+![Welcome]([https://res.cloudinary.com/dmttn34te/image/upload/v1732150306/Sabir_Ali_Mondal_ikncvo.jpg])
 
 ## Skills and Interests
 
