@@ -30,7 +30,7 @@ AI-driven **3D/2D diagram generator** for learning enhancement.
 - **Tech:** p5.js, AI Integration  
 - **Features:** Interactive models, gamified learning  
 
-### 🔹 [Outside of Egg 2.0](https://github.com/Sabir-Ali-Mondal/Outside-of-egg-2.0) *(Private)*  
+### 🔹 [Outside of Egg 2.0](https://github.com/Sabir-Ali-Mondal/Outside-of-egg-2.0) 
 An AI-based **educational creativity tool**.  
 - **Tech:** Node.js, AI, Gamification  
 - **Features:** AI-driven prompts, voice-based feedback  
