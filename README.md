@@ -21,7 +21,7 @@ Hello! I'm **Sabir Ali Mondal**, a **Full Stack Developer-in-progress** from **I
 ## 🚀 Notable Projects  
 ### 🔹 [Frontend AI](https://github.com/Sabir-Ali-Mondal/Frontend-AI)  
 A **web app using AI** to process user queries, perform arithmetic calculations, and provide dictionary meanings.  
-- **Tech:** HTML, CSS, JavaScript 
+- **Tech:** HTML, CSS, JavaScript ,JSON
 - **Features:** Query analysis, arithmetic processing, dictionary lookup, intelligent response selection
 
 ### 🔹 [Man Us](https://github.com/Sabir-Ali-Mondal/Man-Us)  
