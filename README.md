@@ -19,7 +19,7 @@ Hello! I'm **Sabir Ali Mondal**, a **Full Stack Developer-in-progress** from **I
 ---
 
 ### 🔹 [Not Pi Vision](https://github.com/Sabir-Ali-Mondal/Not-Pi-Vision)  
-AI-powered **visual learning engine** converting text into interactive 2D/3D visuals.  
+AI-powered **visual learning engine** converting text into interactive 2D/3D visual representations .  
 - **Tech:** HTML, CSS, JavaScript, Node.js, Gemini API  
 - **Features:** Text-to-visual conversion, voice-based materials, interactive learning cards  
 - **Purpose:** Designed for students and educators in low-resource areas to facilitate engaging and accessible learning experiences without heavy infrastructure.
