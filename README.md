@@ -13,7 +13,7 @@ Hello! I'm **Sabir Ali Mondal**, a **Full Stack Developer-in-progress** from **I
 ✔️ **Languages:** C, Python, JavaScript  
 ✔️ **Frontend:** HTML, CSS, Bootstrap  
 ✔️ **Backend:** Node.js, SQLite  
-✔️ **AI & APIs:** AI Integration, API Handling  
+✔️ **AI & APIs:** AI Integration, API Handling  , Prompt Engineering
 ✔️ **Tools:** GitHub, Vercel  
 
 ---
