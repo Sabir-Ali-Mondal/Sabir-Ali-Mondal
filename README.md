@@ -19,10 +19,10 @@ Hello! I'm **Sabir Ali Mondal**, a **Full Stack Developer-in-progress** from **I
 ---
 ## 🚀 Notable Projects
 ### 🔹 [Not Pi Vision](https://github.com/Sabir-Ali-Mondal/Not-Pi-Vision)  
-AI-powered **visual learning engine** converting text into interactive visual study .  
+AI-powered **visual learning engine** converting text into interactive visual study . / My biggest time consuming project yet ./
 
-### 🔹 [Frontend AI](https://github.com/Sabir-Ali-Mondal/Frontend-AI)  
-A **web app using AI** to process user queries, perform arithmetic calculations, and provide dictionary meanings.  
+### 🔹 [Frontend AI ( Simulator )](https://github.com/Sabir-Ali-Mondal/Frontend-AI)  
+A **web app using frontend** can process User's common queries, Perform calculations, Answer questions, Recall scientific formulas using pattern detect , call api from softcode of data base . 2.69 lakh+ verified Q&A pairs with 325+ real logic patterns .
 
 ### 🔹 [Mindvoice](https://github.com/Sabir-Ali-Mondal/Mindvoice)
 **Interactive mindmap visualization tool** with **AI-powered podcast-style narration**.
