@@ -11,7 +11,7 @@ Hello! I'm **Sabir Ali Mondal**, a **Full Stack Developer-in-progress** from **I
 
 ## 🛠️ Tech Stack  
 ✔️ **Languages:** C, Python, JavaScript  
-✔️ **Frontend:** HTML, CSS, Bootstrap  
+✔️ **Frontend:** HTML, CSS, Bootstrap
 ✔️ **Backend:** Node.js, SQLite  
 ✔️ **AI & APIs:** AI Integration, API Handling  , Prompt Engineering
 ✔️ **Tools:** GitHub, Vercel  
@@ -19,37 +19,34 @@ Hello! I'm **Sabir Ali Mondal**, a **Full Stack Developer-in-progress** from **I
 ---
 ## 🚀 Notable Projects
 ### 🔹 [Not Pi Vision](https://github.com/Sabir-Ali-Mondal/Not-Pi-Vision)  
-AI-powered **visual learning engine** converting text into interactive 2D/3D visual representations .  
-- **Tech:** HTML, CSS, JavaScript, Node.js, Gemini API  
-- **Features:** Text-to-visual conversion, voice-based materials, interactive learning cards  
-- **Purpose:** Designed for students and educators in low-resource areas to facilitate engaging and accessible learning experiences without heavy infrastructure.
+AI-powered **visual learning engine** converting text into interactive visual study .  
 
 ### 🔹 [Frontend AI](https://github.com/Sabir-Ali-Mondal/Frontend-AI)  
 A **web app using AI** to process user queries, perform arithmetic calculations, and provide dictionary meanings.  
-- **Tech:** HTML, CSS, JavaScript ,JSON
-- **Features:** Query analysis, arithmetic processing, dictionary lookup, intelligent response selection
+
+### 🔹 [Mindvoice](https://github.com/Sabir-Ali-Mondal/Mindvoice)
+**Interactive mindmap visualization tool** with **AI-powered podcast-style narration**.
 
 ### 🔹 [Man Us](https://github.com/Sabir-Ali-Mondal/Man-Us)  
 A **web app using AI** to promote **religious understanding** by providing moral values from different religious books.  
-- **Tech:** Node.js, SQLite, AI Prompting  
-- **Features:** Daily wisdom, Q&A with AI, misinformation checker  
+
+### 🔹 [College-PPT-Generator](https://github.com/Sabir-Ali-Mondal/College-PPT-Generator)
+**AI-powered web tool** for students to **generate beautiful presentations automatically**.
+
+### 🔹 [AI-MODEL-SAM](https://github.com/Sabir-Ali-Mondal/AI-MODEL-SAM)
+An **AI model trained on GPU** (not fully succeeded yet).
 
 ### 🔹 [Concept Visioner](https://github.com/Sabir-Ali-Mondal/Concept-Visioner)  
 AI-driven **3D/2D diagram generator** for learning enhancement.  
-- **Tech:** p5.js, AI Integration  
-- **Features:** Interactive models, gamified learning  
 
 ### 🔹 [Outside of Egg 2.0](https://github.com/Sabir-Ali-Mondal/Outside-of-egg-2.0) 
-An AI-based **educational creativity tool**.  
-- **Tech:** Node.js, AI, Gamification  
-- **Features:** AI-driven prompts, voice-based feedback  
+An AI-based **educational creativity tool for children**.  
 
 ### 🔹 [Beam Focus 3.0](https://github.com/Sabir-Ali-Mondal/Beam-Focus-3.0)  
 Personalized **AI-powered study planner**.  
-- **Tech:** JavaScript, Frontend Frameworks  
-- **Features:** Study plans, AI doubt resolution  
 
-📌 **More projects on:** [GitHub](https://github.com/Sabir-Ali-Mondal)  
+
+📌 **More projects on:** [GitHub](https://github.com/Sabir-Ali-Mondal?tab=repositories)
 
 ---
 
