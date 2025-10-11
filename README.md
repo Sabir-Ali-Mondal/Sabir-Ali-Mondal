@@ -26,7 +26,7 @@ AI-powered **visual learning engine** converting text into interactive visual st
 ### 🔹 [Mindvoice](https://github.com/Sabir-Ali-Mondal/Mindvoice)
 **Interactive mindmap visualization tool** with **AI-powered podcast-style narration**.
 
-### 🔹 [Chemical-Reaction-Mechanism]](https://github.com/Sabir-Ali-Mondal/Chemical-Reaction-Mechanism)
+### 🔹 [Chemical-Reaction-Mechanism](https://github.com/Sabir-Ali-Mondal/Chemical-Reaction-Mechanism)
 **An interactive, AI-powered web application for visualizing complex chemical reaction mechanisms.**.
 
 ### 🔹 [Frontend AI ( Bot )](https://github.com/Sabir-Ali-Mondal/Frontend-AI)  
