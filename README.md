@@ -5,7 +5,7 @@
 
 ### 🚀 Full Stack Dev-in-Progress | AI Enthusiast | Problem Solver  
 
-Hello! I'm **Sabir Ali Mondal**, a **Full Stack Developer-in-progress** from **India**. Passionate about **solving real-world problems** through **AI & Web Technologies**.
+Hello! I'm **Sabir Ali Mondal**, from **India**. Passionate about **solving real-world problems** through **AI & Web Technologies**.
 
 ---
 
@@ -18,14 +18,20 @@ Hello! I'm **Sabir Ali Mondal**, a **Full Stack Developer-in-progress** from **I
 
 ---
 ## 🚀 Notable Projects
+
+
 ### 🔹 [Not Pi Vision](https://github.com/Sabir-Ali-Mondal/Not-Pi-Vision)  
 AI-powered **visual learning engine** converting text into interactive visual study . / My biggest time consuming project yet ./
 
-### 🔹 [Frontend AI ( Simulator )](https://github.com/Sabir-Ali-Mondal/Frontend-AI)  
-A **web app using frontend** can process User's common queries, Perform calculations, Answer questions, Recall scientific formulas using pattern detect , call api from softcode of data base . 2.69 lakh+ verified Q&A pairs with 325+ real logic patterns .
-
 ### 🔹 [Mindvoice](https://github.com/Sabir-Ali-Mondal/Mindvoice)
 **Interactive mindmap visualization tool** with **AI-powered podcast-style narration**.
+
+### 🔹 [Chemical-Reaction-Mechanism]](https://github.com/Sabir-Ali-Mondal/Chemical-Reaction-Mechanism)
+**An interactive, AI-powered web application for visualizing complex chemical reaction mechanisms.**.
+
+### 🔹 [Frontend AI ( Bot )](https://github.com/Sabir-Ali-Mondal/Frontend-AI)  
+This can process User's common queries, Perform calculations, Answer questions, Recall scientific formulas using pattern detect , call api from softcode of data base.
+2.69 lakh+ verified Q&A pairs with 325+ real logic patterns.
 
 ### 🔹 [Man Us](https://github.com/Sabir-Ali-Mondal/Man-Us)  
 A **web app using AI** to promote **religious understanding** by providing moral values from different religious books.  
@@ -44,6 +50,7 @@ An AI-based **educational creativity tool for children**.
 
 ### 🔹 [Beam Focus 3.0](https://github.com/Sabir-Ali-Mondal/Beam-Focus-3.0)  
 Personalized **AI-powered study planner**.  
+
 
 
 📌 **More projects on:** [GitHub](https://github.com/Sabir-Ali-Mondal?tab=repositories)
