@@ -1,40 +1,43 @@
-# 👋 Sabir Ali Mondal  
+# Sabir Ali Mondal  
 
 [![GitHub followers](https://img.shields.io/github/followers/Sabir-Ali-Mondal?style=social)](https://github.com/Sabir-Ali-Mondal)
 [![Profile views](https://komarev.com/ghpvc/?username=Sabir-Ali-Mondal)](https://github.com/Sabir-Ali-Mondal)
 
-### 🚀 Full Stack Dev-in-Progress | AI Enthusiast | Problem Solver  
+### Full Stack Dev-in-Progress | AI | Problem Solver  
 
 Hello! I'm **Sabir Ali Mondal**, from **India**. Passionate about **solving real-world problems** through **AI & Web Technologies**.
 
 ---
 
-## 🛠️ Tech Stack  
-✔️ **Languages:** C, Python, JavaScript  
+## Tech Stack  
+✔️ **Languages:** C, Python, JavaScript, Java
 ✔️ **Frontend:** HTML, CSS, Bootstrap
 ✔️ **Backend:** Node.js, SQLite  
 ✔️ **AI & APIs:** AI Integration, API Handling  , Prompt Engineering
 ✔️ **Tools:** GitHub, Vercel  
 
 ---
-## 🚀 Notable Projects
+## Notable Projects
 
 
 ### 🔹 [Not Pi Vision](https://github.com/Sabir-Ali-Mondal/Not-Pi-Vision)  
-AI-powered **visual learning engine** converting text into interactive visual study . / My biggest time consuming project yet ./
-
-### 🔹 [Mindvoice](https://github.com/Sabir-Ali-Mondal/Mindvoice)
-**Interactive mindmap visualization tool** with **AI-powered podcast-style narration**.
-
-### 🔹 [Chemical-Reaction-Mechanism](https://github.com/Sabir-Ali-Mondal/Chemical-Reaction-Mechanism)
-**An interactive, AI-powered web application for visualizing complex chemical reaction mechanisms.**.
-
-### 🔹 [Auto-Video-Creator](https://github.com/Sabir-Ali-Mondal/Auto-Video-Creator)
-**A powerful, browser-based application that transforms structured JSON data into engaging, narrated videos.**.
+AI-powered **visual learning engine** converting text into interactive visual study . *My biggest time-consuming project yet.*
 
 ### 🔹 [Frontend AI ( Bot )](https://github.com/Sabir-Ali-Mondal/Frontend-AI)  
 **This can process User's common queries, Perform calculations, Answer questions, Recall scientific formulas using pattern detect , call api from softcode of data base.
 2.69 lakh+ verified Q&A pairs with 325+ real logic patterns.**
+
+### 🔹 [Map-Video](https://github.com/Sabir-Ali-Mondal/Map-Video)
+**AI & frontend-powered map video visualizer** with **interactive narration** — transforms map data into engaging visual storytelling with dynamic visuals and voice narration.
+
+### 🔹 [Chemical-Reaction-Mechanism](https://github.com/Sabir-Ali-Mondal/Chemical-Reaction-Mechanism)
+**An interactive, AI-powered web application for visualizing complex chemical reaction mechanisms.**.
+
+### 🔹 [Mindvoice](https://github.com/Sabir-Ali-Mondal/Mindvoice)
+**Interactive mindmap visualization tool** with **AI-powered podcast-style narration**.
+
+### 🔹 [Auto-Video-Creator](https://github.com/Sabir-Ali-Mondal/Auto-Video-Creator)
+**A powerful, browser-based application that transforms structured JSON data into engaging, narrated videos.**.
 
 ### 🔹 [Man Us](https://github.com/Sabir-Ali-Mondal/Man-Us)  
 A **web app using AI** to promote **religious understanding** by providing moral values from different religious books looks like four friends chating.
@@ -60,7 +63,7 @@ Personalized **AI-powered study planner**.
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sabir-Ali-Mondal&show_icons=true&theme=tokyonight" width="48%">
@@ -69,11 +72,10 @@ Personalized **AI-powered study planner**.
 
 ---
 
-## 🤝 Let's Connect  
+## Connect  
 
 📌 **Portfolio:** [sabirportfolio.ccbp.tech](https://sabirportfolio.ccbp.tech/)  
 📌 **GitHub:** [Sabir-Ali-Mondal](https://github.com/Sabir-Ali-Mondal)  
 
-🚀 Open to **collaborations & discussions**!  
 
 🔥 **"Think about thinking!"** 🚀
