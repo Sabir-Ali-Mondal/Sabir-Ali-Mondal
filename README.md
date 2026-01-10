@@ -60,17 +60,16 @@ An AI-based **educational creativity tool for children**.
 ### [Beam Focus 3.0](https://github.com/Sabir-Ali-Mondal/Beam-Focus-3.0)
 Personalized **AI-powered study planner**.
 
-More projects:  
-[GitHub Repositories](https://github.com/Sabir-Ali-Mondal?tab=repositories)
+### More projects:  
+- [GitHub Repositories](https://github.com/Sabir-Ali-Mondal?tab=repositories)
+
 
 ---
 
-## GitHub Stats
+### [React – Learning Repository](https://github.com/Sabir-Ali-Mondal/React)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sabir-Ali-Mondal&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabir-Ali-Mondal&layout=compact&theme=default&hide_border=true&cache_seconds=1800" width="48%" />
-</p>
+Learning **React** with mini-projects: **01basicreact, 01vitereact, 02counter, 03tailwindprops, 04bgChanger, customReact**.
+**Status:** Ongoing learning and practice.
 
 ---
 
