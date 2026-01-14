@@ -14,8 +14,8 @@ Hello! I'm **Sabir Ali Mondal**, from **India**. Passionate about **solving real
 | Category | Technologies |
 |--------|--------------|
 | Languages | C, Python, Java, JavaScript |
-| Frontend | HTML, CSS, Bootstrap, Flexbox, React |
-| Backend | Node.js *(worked with)*, SQLite |
+| Frontend | HTML, CSS, Bootstrap, React |
+| Backend | Node.js *(worked with)*, SQLite, MongoDB |
 | AI & APIs | AI Integration, API Handling, Prompt Engineering |
 | Tools & Platforms | GitHub *(worked with)*, Vercel *(worked with)*, Google Colab *(worked with)* |
 
