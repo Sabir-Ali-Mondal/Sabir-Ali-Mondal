@@ -3,7 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Sabir-Ali-Mondal?style=social)](https://github.com/Sabir-Ali-Mondal)
 [![Profile views](https://komarev.com/ghpvc/?username=Sabir-Ali-Mondal)](https://github.com/Sabir-Ali-Mondal)
 
-### Full Stack Dev-in-Progress | AI | Problem Solver
+### Full Stack Developer | AI | Problem Solver
 
 Hello! I'm **Sabir Ali Mondal**, from **India**. Passionate about **solving real-world problems** through **AI & Web Technologies**.
 
@@ -70,6 +70,12 @@ Personalized **AI-powered study planner**.
 
 Learning **React** with mini-projects: **01basicreact, 01vitereact, 02counter, 03tailwindprops, 04bgChanger, customReact**.
 **Status:** Ongoing learning and practice.
+
+---
+
+### [MongoDB](https://github.com/Sabir-Ali-Mondal/MongoDB-codes)
+
+Started with **NxTWave CCBP 4.0 (bonus course)** and completed **MongoDB Crash Course 2026 (with Handbook)** by CodeWithHarry — practical examples and exercises covering MongoDB fundamentals.
 
 ---
 
