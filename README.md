@@ -32,37 +32,37 @@ Built using **1100+ lines of JS function-based prompts** for intelligent control
 Processes user queries, performs calculations, recalls and computes scientific formulas using pattern detection, and integrates API results from a soft-coded function database.
 **2.69 lakh+ verified Q&A pairs with 325+ real logic patterns**.
 
-### [Map-Video](https://github.com/Sabir-Ali-Mondal/Map-Video)
-AI & frontend-powered **map video visualizer** with **interactive narration**, transforming map data into engaging visual storytelling with dynamic visuals and voice narration.
-
 ### [Chemical-Reaction-Mechanism](https://github.com/Sabir-Ali-Mondal/Chemical-Reaction-Mechanism)
 An interactive, **AI-powered web application** for visualizing complex chemical reaction mechanisms.
 Implemented function-based prompts to generate complex JSON with near-zero errors.
 
-### [Mindvoice](https://github.com/Sabir-Ali-Mondal/Mindvoice)
-**Interactive mind-map visualization tool** with **AI-powered podcast-style narration**.
+### [Map-Video](https://github.com/Sabir-Ali-Mondal/Map-Video)
+AI & frontend-powered **map video visualizer** with **interactive narration**, transforming map data into engaging visual storytelling with dynamic visuals and voice narration.
 
-### [Auto-Video-Creator](https://github.com/Sabir-Ali-Mondal/Auto-Video-Creator)
-A powerful, **browser-based application** that transforms structured JSON data into engaging, narrated videos. *[Ongoing]*
+### [Mindvoice](https://github.com/Sabir-Ali-Mondal/Mindvoice)
+**Interactive mind-map visualization tool** with **AI & frontend-powered podcast-style narration**.
 
 ### [Man Us](https://github.com/Sabir-Ali-Mondal/Man-Us)
 A **web application using AI** to promote religious understanding by providing moral values from different religious books, presented as four friends chatting.
 
 ### [College-PPT-Generator](https://github.com/Sabir-Ali-Mondal/College-PPT-Generator)
-**AI-powered web tool** for students to automatically generate beautiful presentations.
+**AI & frontend-powered web tool** for students to automatically generate beautiful presentations.
 It’s a PPT hack – the free and easiest method to create presentations without wasting TIME on design.
 
-### [AI-MODEL-SAM](https://github.com/Sabir-Ali-Mondal/AI-MODEL-SAM)
+### *[AI-MODEL-SAM](https://github.com/Sabir-Ali-Mondal/AI-MODEL-SAM)*
 An **AI model trained on GPU** (not fully succeeded yet).
 
+### [Auto-Video-Creator](https://github.com/Sabir-Ali-Mondal/Auto-Video-Creator)
+A powerful, **browser-based application** that transforms structured JSON data into engaging, narrated videos. *[Pending]*
+
 ### [Concept Visioner](https://github.com/Sabir-Ali-Mondal/Concept-Visioner)
-AI-driven **2D/3D diagram generator** for learning enhancement.
+AI & frontend-powered **2D/3D diagram generator** for learning enhancement.
 
 ### [Outside of Egg 2.0](https://github.com/Sabir-Ali-Mondal/Outside-of-egg-2.0)
-An AI-based **educational creativity tool for children**.
+AI & frontend-powered **educational creativity tool for children**.
 
 ### [Beam Focus 3.0](https://github.com/Sabir-Ali-Mondal/Beam-Focus-3.0)
-Personalized **AI-powered study planner**.
+Personalized **AI & frontend-powered study planner**.
 
 ---
 
