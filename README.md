@@ -17,7 +17,7 @@ Passionate about **solving real-world problems** through **AI & Web Technologies
 | Frontend | React, HTML, CSS, Bootstrap, Tailwind CSS |
 | Backend | Node.js *(worked with)*, Express *(worked with)*, SQLite, MongoDB |
 | AI & APIs | AI Integration, API Handling, Prompt Engineering |
-| Tools & Platforms | Git, GitHub *(worked with)*, Google Colab *(worked with)*, Vercel *(worked with)*, AWS *(worked with)* |
+| Tools & Platforms | Git, GitHub, Google Colab *(worked with)*, Vercel *(worked with)*, AWS *(worked with)* |
 
 ---
 
