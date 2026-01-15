@@ -43,10 +43,10 @@ AI & frontend-powered **map video visualizer** with **interactive narration**, t
 **Interactive mind-map visualization tool** with **AI & frontend-powered podcast-style narration**.
 
 ### [Man Us](https://github.com/Sabir-Ali-Mondal/Man-Us)
-A **web application using AI** to promote religious understanding by providing moral values from different religious books, presented as four friends chatting.
+A **Fullstack web application using AI** to promote religious understanding by providing moral values from different religious books, presented as four friends chatting.
 
 ### [College-PPT-Generator](https://github.com/Sabir-Ali-Mondal/College-PPT-Generator)
-**AI & frontend-powered web tool** for students to automatically generate beautiful presentations.
+**AI & frontend-powered web tool** for students to generate beautiful presentations.
 It’s a PPT hack – the free and easiest method to create presentations without wasting TIME on design.
 
 ### *[AI-MODEL-SAM](https://github.com/Sabir-Ali-Mondal/AI-MODEL-SAM)*
