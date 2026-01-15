@@ -33,7 +33,7 @@ Processes user queries, performs calculations, recalls and computes scientific f
 **2.69 lakh+ verified Q&A pairs with 325+ real logic patterns**.
 
 ### [Chemical-Reaction-Mechanism](https://github.com/Sabir-Ali-Mondal/Chemical-Reaction-Mechanism)
-An interactive, **AI-powered web application** for visualizing complex chemical reaction mechanisms.
+An interactive, AI & frontend-powered for visualizing **complex chemical reaction mechanisms**.
 Implemented function-based prompts to generate complex JSON with near-zero errors.
 
 ### [Map-Video](https://github.com/Sabir-Ali-Mondal/Map-Video)
