@@ -36,6 +36,8 @@ Processes user queries, performs calculations, recalls and computes scientific f
 An interactive, AI & frontend-powered app for visualizing **complex chemical reaction mechanisms**.
 Implemented function-based prompts to generate complex JSON with near-zero errors.
 
+
+
 ### [Map-Video](https://github.com/Sabir-Ali-Mondal/Map-Video)
 AI & frontend-powered **map video visualizer** with **interactive narration**, transforming map data into engaging visual storytelling with dynamic visuals and voice narration.
 
@@ -49,8 +51,7 @@ A **Fullstack web application using AI** to promote religious understanding by p
 **AI & frontend-powered web tool** for students to generate beautiful presentations.
 It’s a PPT hack – the free and easiest method to create presentations without wasting TIME on design.
 
-### *[AI-MODEL-SAM](https://github.com/Sabir-Ali-Mondal/AI-MODEL-SAM)*
-An **AI model trained on GPU** (not fully succeeded yet).
+
 
 ### [Auto-Video-Creator](https://github.com/Sabir-Ali-Mondal/Auto-Video-Creator)
 A powerful, **browser-based application** that transforms structured JSON data into engaging, narrated videos. *[Pending]*
@@ -63,6 +64,11 @@ AI & frontend-powered **educational creativity tool for children**.
 
 ### [Beam Focus 3.0](https://github.com/Sabir-Ali-Mondal/Beam-Focus-3.0)
 Personalized **AI & frontend-powered study planner**.
+
+---
+
+### [AI-MODEL-SAM](https://github.com/Sabir-Ali-Mondal/AI-MODEL-SAM)
+An **AI model trained on GPU** (not fully succeeded yet).
 
 ---
 
