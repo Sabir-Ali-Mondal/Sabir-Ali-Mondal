@@ -1,8 +1,8 @@
-# Sabir Ali Mondal
+# Sabir Ali Mondal [![Profile views](https://komarev.com/ghpvc/?username=Sabir-Ali-Mondal)](https://github.com/Sabir-Ali-Mondal)
 
-[![Profile views](https://komarev.com/ghpvc/?username=Sabir-Ali-Mondal)](https://github.com/Sabir-Ali-Mondal)
 
 ### Full Stack Developer | AI | Problem Solver | Innovative
+
 
 Hello! I'm **Sabir Ali Mondal**, from **India**. 3rd-year CSE student with AI-powered, full-stack, and innovative web projects.
 Passionate about **solving real-world problems** through **AI & Web Technologies**.
