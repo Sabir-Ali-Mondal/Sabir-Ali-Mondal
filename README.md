@@ -32,7 +32,7 @@ Built using **1100+ lines of JS function-based prompts** for intelligent control
 Processes user queries, performs calculations, recalls and computes scientific formulas using pattern detection, and integrates API results from a soft-coded function database.
 **2.69 lakh+ verified Q&A pairs with 325+ real logic patterns**.
 
-### [ChemFlow: 𝘼 𝘾𝙝𝙚𝙢𝙞𝙨𝙩𝙧𝙮 𝙈𝙚𝙘𝙝𝙖𝙣𝙞𝙨𝙢 𝙑𝙞𝙨𝙪𝙖𝙡𝙞𝙯𝙚𝙧](https://github.com/Sabir-Ali-Mondal/Chemical-Reaction-Mechanism)
+### [ChemFlow: A chemistry mechanism visualizer](https://github.com/Sabir-Ali-Mondal/Chemical-Reaction-Mechanism)
 An interactive, AI & frontend-powered app for visualizing **complex chemical reaction mechanisms**.
 Implemented function-based prompts to generate complex JSON with near-zero errors.
 
