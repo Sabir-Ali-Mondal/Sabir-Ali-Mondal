@@ -16,7 +16,7 @@ Hello! I'm **Sabir Ali Mondal**, from **India**. 3rd-year CSE student with AI-po
 | Frontend | React, HTML, CSS, Bootstrap, Tailwind CSS |
 | Backend | Node.js *(worked with)*, Express *(worked with)*, SQLite, MongoDB |
 | AI & APIs | AI Integration, API Handling, Prompt Engineering |
-| Tools & Platforms | Git, GitHub, Google Colab *(worked with)*, Vercel *(worked with)*, AWS *(worked with)* |
+| Tools & Platforms | Git *(worked with)*, GitHub, Google Colab *(worked with)*, Vercel *(worked with)*, AWS *(worked with)* |
 
 ---
 
