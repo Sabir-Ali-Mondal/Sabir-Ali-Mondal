@@ -4,8 +4,7 @@
 ### Full Stack Developer | AI | Problem Solver | Innovative
 
 
-Hello! I'm **Sabir Ali Mondal**, from **India**. 3rd-year CSE student with AI-powered, full-stack, and innovative web projects.
-Passionate about **solving real-world problems** through **AI & Web Technologies**.
+Hello! I'm **Sabir Ali Mondal**, from **India**. 3rd-year CSE student with AI-powered, full-stack, low cost and innovative web projects.
 
 ---
 
