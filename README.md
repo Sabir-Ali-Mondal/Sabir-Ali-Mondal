@@ -35,7 +35,9 @@ Processes user queries, performs calculations, recalls and computes scientific f
 An interactive, AI & frontend-powered app for visualizing **complex chemical reaction mechanisms**.
 Implemented function-based prompts to generate complex JSON with near-zero errors.
 
-
+### [Video-Like](https://github.com/Sabir-Ali-Mondal/Video-Like)
+An Auto Video Creator that utilizes frontend web technologies and text-generating AI.
+It rejects hallucinated AI video in favor of scripted logic, outputting deterministic, **cinematic educational content**. It runs entirely inside **a single HTML file**.
 
 ### [Map-Video](https://github.com/Sabir-Ali-Mondal/Map-Video)
 AI & frontend-powered **map video visualizer** with **interactive narration**, transforming map data into engaging visual storytelling with dynamic visuals and voice narration.
@@ -49,11 +51,6 @@ A **Fullstack web application using AI** to promote religious understanding by p
 ### [College-PPT-Generator](https://github.com/Sabir-Ali-Mondal/College-PPT-Generator)
 **AI & frontend-powered web tool** for students to generate beautiful presentations.
 It’s a PPT hack – the free and easiest method to create presentations without wasting TIME on design.
-
-
-
-### [Auto-Video-Creator](https://github.com/Sabir-Ali-Mondal/Auto-Video-Creator)
-A powerful, **browser-based application** that transforms structured JSON data into engaging, narrated videos. *[Pending]*
 
 ### [Concept Visioner](https://github.com/Sabir-Ali-Mondal/Concept-Visioner)
 AI & frontend-powered **2D/3D diagram generator** for learning enhancement.
