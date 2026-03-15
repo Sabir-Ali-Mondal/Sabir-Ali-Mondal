@@ -64,7 +64,12 @@ Personalized **AI & frontend-powered study planner**.
 ---
 
 ### [AI-MODEL-SAM](https://github.com/Sabir-Ali-Mondal/AI-MODEL-SAM)
-An **AI model trained on GPU** (not fully succeeded yet).
+An **AI model trained on GPU** (not perfect yet).
+
+---
+
+### [Agent-Sam](https://github.com/Sabir-Ali-Mondal/Agent-Sam)
+Local AI desktop agent that understands the screen and automates GUI tasks using an LLM. [ Currently under planning and development. ]
 
 ---
 
