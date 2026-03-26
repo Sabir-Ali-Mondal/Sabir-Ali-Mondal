@@ -71,6 +71,9 @@ An **AI model trained on GPU** (not perfect yet).
 ### [Agent-Sam](https://github.com/Sabir-Ali-Mondal/Agent-Sam)
 Local AI desktop agent that understands the screen and automates GUI tasks using an LLM. [ Currently under planning and development. ]
 
+### [Colab Vision API Server](https://github.com/Sabir-Ali-Mondal/Colab-Vision-API-Server)
+Turn a free Google Colab GPU into an OpenAI-style AI server with a single script. It uses vLLM and a Cloudflare tunnel to run vision models, auto-installs dependencies, detects CPU/GPU/TPU, exposes a public API, and lets you send image and text requests from your local PC—no setup or local GPU needed.
+
 ---
 
 ### [React – Learning Repository](https://github.com/Sabir-Ali-Mondal/React)
