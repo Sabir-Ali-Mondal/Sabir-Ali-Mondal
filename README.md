@@ -4,7 +4,7 @@
 ### Full Stack Developer | AI | Problem Solver | Innovative
 
 
-Hello! I'm **Sabir Ali Mondal**, from **India**. 3rd-year CSE student with AI-powered, full-stack, low cost and innovative web projects.
+Hello! I'm **Sabir Ali Mondal**, from **India**. 4th-year CSE student with AI-powered, full-stack, low cost and innovative web projects.
 
 ---
 
@@ -39,34 +39,14 @@ Implemented function-based prompts to generate complex JSON with near-zero error
 An Auto Video Creator that utilizes frontend web technologies and text-generating AI.
 It rejects hallucinated AI video in favor of scripted logic, outputting deterministic, **cinematic educational content**. It runs entirely inside **a single HTML file**.
 
-### [Map-Video](https://github.com/Sabir-Ali-Mondal/Map-Video)
-AI & frontend-powered **map video visualizer** with **interactive narration**, transforming map data into engaging visual storytelling with dynamic visuals and voice narration.
-
-### [Mindvoice](https://github.com/Sabir-Ali-Mondal/Mindvoice)
-**Interactive mind-map visualization tool** with **AI & frontend-powered podcast-style narration**.
-
-### [Man Us](https://github.com/Sabir-Ali-Mondal/Man-Us)
-A **Fullstack web application using AI** to promote religious understanding by providing moral values from different religious books, presented as four friends chatting.
-
-### [College-PPT-Generator](https://github.com/Sabir-Ali-Mondal/College-PPT-Generator)
-**AI & frontend-powered web tool** for students to generate beautiful presentations.
-It’s a PPT hack – the free and easiest method to create presentations without wasting TIME on design.
-
-### [Concept Visioner](https://github.com/Sabir-Ali-Mondal/Concept-Visioner)
-AI & frontend-powered **2D/3D diagram generator** for learning enhancement.
-
-### [Outside of Egg 2.0](https://github.com/Sabir-Ali-Mondal/Outside-of-egg-2.0)
-AI & frontend-powered **educational creativity tool for children**.
-
-### [Beam Focus 3.0](https://github.com/Sabir-Ali-Mondal/Beam-Focus-3.0)
-Personalized **AI & frontend-powered study planner**.
-
 ---
 
 ### [AI-MODEL-SAM](https://github.com/Sabir-Ali-Mondal/AI-MODEL-SAM)
 An **AI model trained on GPU** (not perfect yet).
 
 ---
+### [SAM ScreenParser](https://github.com/Sabir-Ali-Mondal/SAM-ScreenParser)
+CPU-friendly screen-to-JSON parser for AI desktop agents. Extracts pixel-perfect coordinates, OCR, UI semantics, cursor context, and structured screen state for reliable LLM-driven automation.
 
 ### [Agent-Sam](https://github.com/Sabir-Ali-Mondal/Agent-Sam)
 Local AI desktop agent that understands the screen and automates GUI tasks using an LLM.
