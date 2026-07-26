@@ -64,6 +64,10 @@ Turn a free Google Colab GPU into an OpenAI-style AI server with a single script
 Learning **React** with mini-projects: **01basicreact, 01vitereact, 02counter, 03tailwindprops, 04bgChanger, customReact**.
 **Status:** Ongoing learning and practice.
 
+### [website-esperanza2k26](https://github.com/Sabir-Ali-Mondal/website-esperanza2k26)
+The official website for CGEC's annual technical extravaganza
+- Main development contributer
+
 ---
 
 ### [MongoDB](https://github.com/Sabir-Ali-Mondal/MongoDB-codes)
