@@ -27,10 +27,6 @@ Converting *Text AI* into **visual learning engine.** **My biggest time-consumin
 A fast, lightweight, and engaging way to understand concepts visually without the need for heavy infrastructure.
 Built using **1100+ lines of JS function-based prompts** for intelligent control.
 
-### [Frontend AI (Bot)](https://github.com/Sabir-Ali-Mondal/Frontend-AI)
-Processes user queries, performs calculations, recalls and computes scientific formulas using pattern detection, and integrates API results from a soft-coded function database.
-**2.69 lakh+ verified Q&A pairs with 325+ real logic patterns**.
-
 ### [ChemFlow: A chemistry mechanism visualizer](https://github.com/Sabir-Ali-Mondal/Chemical-Reaction-Mechanism)
 An interactive, AI & frontend-powered app for visualizing **complex chemical reaction mechanisms**.
 Implemented function-based prompts to generate complex JSON with near-zero errors.
@@ -41,10 +37,12 @@ It rejects hallucinated AI video in favor of scripted logic, outputting determin
 
 ---
 
-### [AI-MODEL-SAM](https://github.com/Sabir-Ali-Mondal/AI-MODEL-SAM)
-An **AI model trained on GPU** (not perfect yet).
+### [Frontend AI (Bot)](https://github.com/Sabir-Ali-Mondal/Frontend-AI)
+Processes user queries, performs calculations, recalls and computes scientific formulas using pattern detection, and integrates API results from a soft-coded function database.
+**2.69 lakh+ verified Q&A pairs with 325+ real logic patterns**.
 
 ---
+
 ### [SAM ScreenParser](https://github.com/Sabir-Ali-Mondal/SAM-ScreenParser)
 CPU-friendly screen-to-JSON parser for AI desktop agents. Extracts pixel-perfect coordinates, OCR, UI semantics, cursor context, and structured screen state for reliable LLM-driven automation.
 
