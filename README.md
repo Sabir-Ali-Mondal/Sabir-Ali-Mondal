@@ -47,8 +47,8 @@ Processes user queries, performs calculations, recalls and computes scientific f
 CPU-friendly screen-to-JSON parser for AI desktop agents. Extracts pixel-perfect coordinates, OCR, UI semantics, cursor context, and structured screen state for reliable LLM-driven automation.
 
 ### [Agent-Sam](https://github.com/Sabir-Ali-Mondal/Agent-Sam)
-Local AI desktop agent that understands the screen and automates GUI tasks using an LLM.
-- [ Currently under planning and development. ]
+Local LLM desktop agent that understands the screen and automates GUI tasks from telegram bot.
+- [ Testing Phase ]
 
 ### [Self-Building-AI-Platform](https://github.com/Sabir-Ali-Mondal/Self-Building-AI-Platform)
 A unified AI platform that combines chatbot, agent builder, memory (RAG), and tool execution in one system. It can handle simple queries or complex multi-step tasks by planning workflows, splitting work, using tools/APIs, executing code, verifying results, and generating large structured outputs.
